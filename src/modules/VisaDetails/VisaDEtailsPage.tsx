@@ -12,8 +12,7 @@ export default function VisaDetailsPage() {
       <TopNav />
       <Header />
       <Middle />      
-       
-
+      
       <Footer />
     </div>
   );

@@ -10,7 +10,7 @@ export default function StoryDetailsPage() {
       <TopNav />
       <Header />
       <Middle />      
-      <div className="h-[1350px]"></div> 
+       
 
       <Footer />
     </div>
